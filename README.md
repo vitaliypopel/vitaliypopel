@@ -7,7 +7,7 @@ I’m a passionate Full-Stack Developer specializing in building robust, scalabl
 ### 🛠️ Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,django,js,vue,nginx,docker,postgres,redis,mongodb,linux" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=python,django,nodejs,vue,postgres,redis,mongodb,linux,bash,git,nginx,docker,aws" alt="Tech Stack" />
 </p>
 
 ### 💡 Projects & Contributions
@@ -15,9 +15,10 @@ I’m a passionate Full-Stack Developer specializing in building robust, scalabl
 - **[django-routify](https://github.com/vitaliypopel/django-routify):** Python package for enhanced URL routing in Django.
 - **[django-quiz](https://github.com/vitaliypopel/django-quiz):** A full-featured quiz platform built with Django.
 - **[articlify](https://github.com/vitaliypopel/articlify):** Diploma project – platform for article management and publication.
+- **[anonllm](https://github.com/vitaliypopel/AnonLLM):** Anonymous chat with Ollama's large language model.
 - **Open Source Contributions:** 
-  - [derisk-research](https://github.com/derisk-research)
-  - [spotnet](https://github.com/spotnet)
+  - [derisk-research](https://github.com/CarmineOptions/derisk-research)
+  - [spotnet](https://github.com/djeck1432/spotnet)
   - [kakarot](https://github.com/kkrt-labs/kakarot)
 
 ### 🏢 Currently
